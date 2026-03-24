@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "SISY Living - Experts Building a More Sustainable World"
 
 [params]
-  description = "SISY Living connects sustainability leaders, circular economy experts, and climate advocates with the platforms and audiences driving a better future."
+  description = "SISY Living connects sustainability scientists, circular economy pioneers, climate communicators, and regenerative design experts with the stages and audiences they deserve."
   tagline = "Experts building a more sustainable world."
 
 [markup.goldmark.renderer]
