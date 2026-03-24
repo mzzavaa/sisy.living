@@ -1,0 +1,10 @@
+baseURL = "https://sisy.living/"
+languageCode = "en-us"
+title = "SISY Living - Experts Building a More Sustainable World"
+
+[params]
+  description = "SISY Living connects sustainability leaders, circular economy experts, and climate advocates with the platforms and audiences driving a better future."
+  tagline = "Experts building a more sustainable world."
+
+[markup.goldmark.renderer]
+  unsafe = true
