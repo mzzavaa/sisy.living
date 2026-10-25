@@ -4,3 +4,13 @@ resources/
 node_modules/
 .DS_Store
 .claude/
+
+# Local and secret files
+.env
+.env.*
+__pycache__/
+.venv/
+*.pem
+!.env.example
+!.env.sample
+!.env.template
